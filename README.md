@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @riju-max
 - 👀 I’m interested in ...AI and system design
-- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...HE /HIM/HIS
